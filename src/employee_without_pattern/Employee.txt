@@ -1,0 +1,10 @@
+John Smith,30,123 Main St,TechCorp,IT,65000
+Alice Johnson,28,45 Park Ave,TechCorp,HR,58000
+Michael Brown,40,78 Elm St,FinancePlus,Accounting,72000
+Emily Davis,35,22 Oak Road,HealthCare Inc,Operations,69000
+David Wilson,50,9 Pine Lane,TechCorp,Management,90000
+Sophia Taylor,26,14 River Dr,DesignStudio,Creative,54000
+Daniel Anderson,32,77 Sunset Blvd,FinancePlus,IT,71000
+Olivia Martinez,29,3 Lake View,HealthCare Inc,HR,60000
+James Thomas,45,88 Mountain Rd,TechCorp,IT,88000
+Isabella White,31,101 Maple St,DesignStudio,Marketing,62000
